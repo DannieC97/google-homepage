@@ -1,1 +1,1 @@
-Learnig skills for html building
+Learning skills for html building
